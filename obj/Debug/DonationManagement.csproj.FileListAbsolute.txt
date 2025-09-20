@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\bin\Debug\DonationManagement.exe.config
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\bin\Debug\DonationManagement.exe
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\bin\Debug\DonationManagement.pdb
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.LoginPage.resources
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.Properties.Resources.resources
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.exe
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.pdb
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.exe.config
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.Dashboard.resources
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\Donation.9F76BFEE.Up2Date
+C:\Users\DELL\Desktop\Projects\Anil Sir\DonationApplication\DonationManagement\obj\Debug\DonationManagement.Sidebar.resources
